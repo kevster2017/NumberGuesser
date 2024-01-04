@@ -8,8 +8,6 @@ while(true)
 {
 
 
-
-//int correctNumber = 7;
 Random random = new Random();
 
 int correctNumber = random.Next(1, 10);
